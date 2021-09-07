@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  background-color: #283149;
+}
+h1{
+  font-size: 12rem;
+  color: #DBEDF3;
+  font-family:"Arvo", cursive;
+  text-shadow: 3px 0 #D40463;
+}
+footer{
+  color: #DBEDF3;
+  font-family: fantasy;
+  font-size: 3rem;
+
+}
+button{
+  font-size: 100px;
+  color: purple;
+}
+.W{background-image: url("images/drum1.png");
+width: 200px;
+}
+.A{background-image: url("images/drum2.png");
+width: 200px;
+}
+.S{background-image: url("images/drum3.png");
+width: 200px;
+}
+.D{background-image: url("images/drum4.png");
+width: 200px;
+}
+.J{background-image: url("images/drum5.png");
+width: 200px;
+
+}
+.K{background-image: url("images/drum6.png");
+width: 200px;
+}
+.L{background-image: url("images/drum7.jpg");
+width: 200px;
+}
+.set{
+  margin: 10% auto;
+}
+.pressed{
+  box-shadow: 0 3px 4px 0:#DBEDF3;
+  opacity: 0.5;
+}
+.red{
+  color: red;
+}
+.down{
+  outline: none;
+  border: 10px solid #4D4869;
+  font-size: 5rem;
+  font-family: 'Arvo',cursive;
+  line-height: 2;
+  font-weight: 900;
+}
